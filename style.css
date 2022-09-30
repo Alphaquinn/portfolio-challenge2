@@ -1,0 +1,29 @@
+body {
+    margin-left: 4rem;
+    margin-right: 4rem;
+    padding: 0;
+}
+
+nav {
+    display: flex;
+    /* width: 100vw; */
+    background-color: aquamarine;
+}
+
+
+
+nav ul {
+    display: flex;
+    margin-left: auto;
+
+}
+
+nav ul li {
+    list-style: none;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+
+
+
