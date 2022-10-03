@@ -1,0 +1,55 @@
+
+
+
+
+
+body {
+    justify-content: center;
+    background-color: rgb(144, 144, 243);
+    margin-left: 4rem;
+    margin-right: 4rem;
+    padding: 0;
+}
+
+nav {
+    display: flex;
+    /* width: 100vw; */
+    background-color: aquamarine;
+}
+
+
+
+nav ul {
+    display: flex;
+    margin-left: auto;
+    border: 1cm yellow;
+
+}
+
+nav ul li {
+    list-style: none;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+h1,
+ p
+{
+   text-align: left;
+   margin-right: 9cm;
+   border: 1cm;
+  background-color:  aquamarine;
+}
+
+.about, img{
+   text-align: end;
+   
+}
+.smallimagetext1 {
+   text-align: left;
+   top: 4cm;
+
+
+}
+
+
